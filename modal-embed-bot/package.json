@@ -1,0 +1,18 @@
+{
+  "name": "modal-embed-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord con Modals y Embeds",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "commands": "node commands.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LaMalditaProgramadora",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.1.3"
+  }
+}
