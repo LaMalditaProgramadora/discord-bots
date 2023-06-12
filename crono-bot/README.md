@@ -1,4 +1,7 @@
-### crono-bot
+## crono-bot
 
-## Comandos de Compilación
+### Vídeo explicativo
+https://youtu.be/F70RsxKm0q0
+
+### Comandos de Compilación
 * npm run start: Iniciar Bot.
